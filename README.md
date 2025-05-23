@@ -1,5 +1,4 @@
 
-Bachelor's Thesis 
 # Bachelor's Thesis – AI Tools for Student Support
 
 This repository contains the code for my bachelor's thesis project.
